@@ -8,10 +8,8 @@
 #include <tchar.h>
 #include <winioctl.h>
 #include <d3d9.h>
-//#include "C:\Users\Xenia\Desktop\SRC-DemonWare EFI Pasta\D3XD\d3dx9.h"
 #include "D3XD/d3dx9.h"
 #include <dwmapi.h>
-
 #pragma comment(lib, "d3d9.lib")
 #pragma comment(lib, "dwmapi.lib")
 
